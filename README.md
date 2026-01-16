@@ -191,6 +191,15 @@ const api = axios.create({
   baseURL: process.env.VITE_API_URL || 'http://localhost:8080',
 });
 ```
+## 📋 Screenshots
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 26 25 PM" src="https://github.com/user-attachments/assets/f022b59e-5ed6-43cd-b7a4-e75007ac2875" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 26 52 PM" src="https://github.com/user-attachments/assets/ce1ae822-80f4-4c07-91d4-f6e7661acddd" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 27 01 PM" src="https://github.com/user-attachments/assets/afbc6142-bcb9-4075-8211-e61e5677d5a7" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 27 33 PM" src="https://github.com/user-attachments/assets/03095b94-4bf2-43f5-a094-fae178475a43" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 27 40 PM" src="https://github.com/user-attachments/assets/2625b60b-32e3-4ac4-810c-9ab90eca0652" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 27 45 PM" src="https://github.com/user-attachments/assets/5f76b207-0e35-4487-aacd-ac839022b272" />
+<img width="1467" height="805" alt="Screenshot 2026-01-16 at 12 28 01 PM" src="https://github.com/user-attachments/assets/5a4662a0-43ed-47be-a77f-d0a8df5cc85f" />
+
 
 ## 🤝 Contributing
 
