@@ -149,32 +149,6 @@ The backend exposes RESTful API endpoints for task management:
 - `GET /api/tasklists` - Get all task lists
 - `POST /api/tasklists` - Create a new task list
 
-## 🌐 Deployment
-
-For detailed deployment instructions to various platforms, see [DEPLOYMENT.md](DEPLOYMENT.md).
-
-### Recommended Free Deployment Options
-
-**Backend:**
-- Railway.app (Free tier with $5 credit/month)
-- Render.com (Free tier available)
-- Fly.io (3 shared VMs free)
-
-**Frontend:**
-- Vercel (Unlimited free)
-- Netlify (Unlimited free)
-
-### Quick Deploy Commands
-
-```bash
-# Production build
-./mvnw clean package -DskipTests
-
-# Frontend build
-cd frontend
-npm run build
-```
-
 ## 🧪 Development
 
 ### Running Tests
@@ -247,7 +221,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 If you have any questions or run into issues, please:
-- Check the [DEPLOYMENT.md](DEPLOYMENT.md) guide for detailed setup instructions
 - Review application logs and browser console for errors
 - Open an issue on GitHub
 
